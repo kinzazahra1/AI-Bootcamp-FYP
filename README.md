@@ -33,3 +33,6 @@ Online Deployment: Visit the Hugging Face Space where the model is deployed here
 # Deployment on Hugging Face
 The project is also deployed on Hugging Face Spaces, allowing users to interact with the model directly online. Visit the deployed project here [https://huggingface.co/spaces/kzahra/QnA_FYP].
 
+# Output
+![Output](https://github.com/user-attachments/assets/5d448df7-ec20-4f89-bd1e-65adfa693f4b)
+
