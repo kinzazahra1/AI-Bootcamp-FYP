@@ -35,4 +35,5 @@ The project is also deployed on Hugging Face Spaces, allowing users to interact 
 
 # Output
 ![Output](https://github.com/user-attachments/assets/5d448df7-ec20-4f89-bd1e-65adfa693f4b)
+![output 1](https://github.com/user-attachments/assets/8ca48997-db8c-4a9c-a7c2-dbd213d3f56f)
 
