@@ -13,8 +13,11 @@ Deployed on Hugging Face: The model is also deployed on Hugging Face Spaces for 
 
 # Technology Stack
 Mistral-7B-Instruct-v0.2 Model: A powerful language model used for generating contextually relevant answers to questions.
+
 Gradio: A Python library that provides an easy-to-use web interface, allowing users to interact with the model directly from their browser.
+
 FastAPI: A modern, fast (high-performance), web framework for building APIs with Python, which serves as the backend of the application to handle requests and manage the interaction between the Gradio interface and the Mistral-7B model.
+
 ngrok: Used for creating secure tunnels to localhost, making the FastAPI server accessible over the internet.
 
 # Installation
