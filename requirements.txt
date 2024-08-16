@@ -1,0 +1,7 @@
+fastapi
+gradio
+pyngrok
+uvicorn
+nest_asyncio
+langchain_huggingface
+requests
